@@ -1,5 +1,6 @@
-I attend the HTL Bulme in Graz.
+# AHELGit
+### This profile is mainly used for school purposes
 
-Currently I'm programming in **C** and **C++**
+<sup> Currently the programming languages are **C** and **C++** </sup>
 
-In further projects I'll also use **C#**.
+<sup> In further projects we'll also use **C#**. </sup>
