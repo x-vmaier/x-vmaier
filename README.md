@@ -4,6 +4,6 @@
 Currently the programming languages are **C** and **C++**.
 
 ### Useful Websites:
- - https://devdocs.io
- - https://openai.com
- - https://useblackbox.io
+ - https://devdocs.io/
+ - https://openai.com/
+ - https://useblackbox.io/
