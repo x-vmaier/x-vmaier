@@ -3,3 +3,5 @@
 
  - [devdocs.io](https://devdocs.io/)
  - [openai.com](https://openai.com/)
+ - [useblackbox.io](https://useblackbox.io/)
+ - [uiverse.io](https://uiverse.io/)
