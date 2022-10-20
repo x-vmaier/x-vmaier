@@ -1,3 +1,5 @@
+# Attention: This GitHub Profile is still in progress! 
+
 ## This profile is mainly used for school purposes
 
 Currently the programming languages are **C** and **C++**.
