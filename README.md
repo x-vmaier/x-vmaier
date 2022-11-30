@@ -1,11 +1,7 @@
-# Attention: This GitHub Profile is still in progress! 
+# <div align="center">Hello World 👋</div>
 
-## This profile is mainly used for school purposes
+<div align="center">I'm Valentin and 14 yo austrian</div>
+Currently I'm learning the programming languages **C** and **C++**.
 
-Currently the programming languages are **C** and **C++**.
 
-### Useful Websites:
- - https://devdocs.io/
- - https://openai.com/
- - https://useblackbox.io/
- - [more](USEFULWEBSITES.md)
+> [Useful Websites](USEFULWEBSITES.md)
