@@ -1,4 +1,4 @@
-# Hey there, I'm Valentin Maier 👋
+# Hello there, I'm Valentin Maier 👋
 
 ## About Me 📖
 
