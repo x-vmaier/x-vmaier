@@ -1,20 +1,19 @@
-# Hello there, I'm Valentin Maier 👋
+# Hello, I'm Valentin Maier 👋
 
 ## About Me 📖
 
-I am a 15-year-old student from Austria attending HTL Bulme Graz Gösting in the 9th grade. My passion for programming started at a young age, and I am determined to master languages like Python, C, and C++.
+I am a 15-year-old student from Austria attending HTL Bulme Graz Gösting in the 9th grade. I've recently started my journey in programming and I'm excited to learn more. My current focus is on mastering languages like Python, C, and C++.
 
 ## My Goals 🎯
 
 My primary goal is to become a skilled programmer and enhance my coding abilities every day. I strive to learn new programming concepts and techniques to create more efficient, reliable, and elegant code.
 
-## Skills 🚀
+## Languages 🚀
 
-Although I am a novice programmer, I have already gained proficiency in several programming languages, including:
+Currently, I'm learning the following programming languages:
 
-- Python
 - C
-- C++
+- Python
 
 ## Interests 🤔
 
@@ -25,4 +24,3 @@ My interests also extend to all things technical. I'm always eager to learn abou
 ## Contact Me 📧
 
 If you want to chat, collaborate, or have any questions, feel free to reach out to me at [valentin16.maier@gmail.com](mailto:valentin16.maier@gmail.com).
-
