@@ -8,7 +8,7 @@ I am a 15-year-old student from Austria attending HTL Bulme Graz Gösting in the
 
 My primary goal is to become a skilled programmer and enhance my coding abilities every day. I strive to learn new programming concepts and techniques to create more efficient, reliable, and elegant code.
 
-## Languages 🚀
+## Programming Languages 🚀
 
 Currently, I'm learning the following programming languages:
 
