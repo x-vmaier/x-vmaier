@@ -37,7 +37,7 @@
   </a>
 </p>
 
-<hr>
+<!-- <hr>
 
 <h3>Featured Repositories</h3>
 <p>
@@ -49,4 +49,4 @@
   <a href="https://github.com/x-vmaier/Levitator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=x-vmaier&repo=Levitator&theme=dark&hide_border=true" alt="Levitator" />
   </a>
-</p>
+</p> -->
