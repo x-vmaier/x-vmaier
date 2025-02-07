@@ -1,8 +1,3 @@
-<h2>Welcome to My GitHub Profile 👋</h2>
-<p>Hey, I'm Valentin. I work with C++, Python, and Flutter, building open-source projects and exploring new programming languages. Here's a look at what I do:</p>
-
-<hr>
-
 <h3>Things I Code With</h3>
 
 <p>
