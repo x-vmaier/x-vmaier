@@ -10,24 +10,18 @@
   <img src="https://img.shields.io/badge/-PHP-4F5B93?style=flat-square&logo=php&logoColor=white" alt="PHP" />
 </p>
 
-<hr>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
 <h3>My GitHub Stats</h3>
-<p>
-  <a href="https://github.com/x-vmaier">
-    <img src="https://github-readme-stats.vercel.app/api?username=x-vmaier&show_icons=true&theme=dark&hide_border=true" alt="Valentin's GitHub Stats" />
-  </a>
-</p>
-<p>
-  <a href="https://github.com/x-vmaier">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=x-vmaier&theme=dark&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-<p>
-  <a href="https://github.com/x-vmaier">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x-vmaier&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=x-vmaier&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/x-vmaier/x-vmaier/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/x-vmaier/x-vmaier/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/x-vmaier/x-vmaier/output/pacman-contribution-graph.svg">
+</picture>
 
 <!-- <hr>
 
