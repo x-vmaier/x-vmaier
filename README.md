@@ -31,7 +31,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/x-vmaier/x-vmaier/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/x-vmaier/x-vmaier/output/pacman-contribution-graph.svg">
     <img 
-      width="80%" 
+      width="100%" 
       alt="pacman contribution graph" 
       src="https://raw.githubusercontent.com/x-vmaier/x-vmaier/output/pacman-contribution-graph.svg">
   </picture>
